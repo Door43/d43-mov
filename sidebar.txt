@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mov:home|Door43 (mov)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mov|d43-mov repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mov/archive/master.zip|d43-mov.zip]]
+
+**Recent Changes**
+{{changes>ns = mov}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mov|Ethnologue data]]
+
